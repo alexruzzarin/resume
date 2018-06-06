@@ -1,0 +1,146 @@
+{
+  "basics": {
+    "name": "Alex Ruzzarin",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "alex@ruzzarin.net",
+    "phone": "+54 911 30069761",
+    "website": "http://ruzzarin.net",
+    "summary": "I started life as a programmer age 14, a passion which has stayed with me ever since. I’m always involved in a project, be it business or private, as I love to breathe life into a designer’s ideas. Solid product management and support team player skills are a given. I give and look for world class quality in all I do and pride myself in a productive, timely execution of all my projects. Currently I live in Buenos Aires - Argentina while I plan my next move.",
+    "location": {
+      "address": "Godoy Cruz 2449",
+      "postalCode": "C1425FQE",
+      "city": "Autonomous City of Buenos Aires",
+      "countryCode": "AR",
+      "region": "CABA"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "alexruzzarin",
+        "url": "https://github.com/alexruzzarin"
+      },
+      {
+        "network": "Twitter",
+        "username": "alexruzzarin",
+        "url": "https://twitter.com/alexruzzarin"
+      },
+      {
+        "network": "Facebook",
+        "username": "alex.ruzzarin",
+        "url": "https://facebook.com/alex.ruzzarin"
+      },
+      {
+        "network": "Instagram",
+        "username": "alexruzzarin",
+        "url": "https://www.instagram.com/alexruzzarin"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Pager",
+      "location": "New York, US / Remote",
+      "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high quality care.",
+      "website": "http://pager.com",
+      "position": "Software Engineer",
+      "startDate": "2015-05-01",
+      "summary": "Design and maintain the public Pager website and internal web applications used by staff and also the Android application used by clients, that include technologies like real-time chat and video conferencing. Technologies used in the web apps are Node.JS, React, Redux, Cerebral, Angular, Ember, and other UIs frameworks. \n Automation of the build and deployment of the web and Android applications using Webpack, Gulp, Shell Scripts, CircleCI and Jenkins with Docker containers."
+    },
+    {
+      "company": "Segundo Hogar",
+      "location": "Autonomous City of Buenos Aires, AR",
+      "description": "Segundo Hogar was an Vacation Rental Booking Platform in Latin America",
+      "website": "http://segundohogar.com",
+      "position": "Software Engineer",
+      "startDate": "2014-09-01",
+      "endDate": "2015-04-30",
+      "summary": "Development and maintenance of the website, mobile site, backend and APIs for a vacation rental platform using Node.js, Express, Angular and ElasticSearch."
+    },
+    {
+      "company": "ADC - Administradora de Conocimientos",
+      "location": "Autonomous City of Buenos Aires, AR",
+      "description": "ADC is a consultant in technology and software development",
+      "website": "http://www.adconsa.com.ar",
+      "position": "Software Engineer",
+      "startDate": "2012-07-01",
+      "endDate": "2014-07-01",
+      "summary": "Design of solutions, integration between projects, upgrading of the technology platform, training and certification of personnel. \n My main task was to integrate the new system for Argentina's domain names written in .Net and the Bind DNS servers running in Linux, giving me the opportunity to gain in depth knowledge about domain name systems."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "website": "http://coderdojo.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "FTEC Faculdades",
+      "area": "Analysis and Development of Information Systems",
+      "studyType": "Technologist",
+      "startDate": "2006-01-01",
+      "endDate": "2011-12-31"
+    },
+    {
+      "institution": "Universidade Feevale",
+      "area": "Electronics Engineering",
+      "studyType": "Engineer",
+      "startDate": "2001-01-01",
+      "endDate": "2003-12-31",
+      "courses": [
+        "Trainee in the physics lab"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "TV Shows",
+      "keywords": [
+        "DC's",
+        "Marvel's"
+      ]
+    }
+  ]
+}
