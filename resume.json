@@ -64,8 +64,67 @@
       "website": "http://www.adconsa.com.ar",
       "position": "Software Engineer",
       "startDate": "2012-07-01",
-      "endDate": "2014-07-01",
+      "endDate": "2014-07-31",
       "summary": "Design of solutions, integration between projects, upgrading of the technology platform, training and certification of personnel. \n My main task was to integrate the new system for Argentina's domain names written in .Net and the Bind DNS servers running in Linux, giving me the opportunity to gain in depth knowledge about domain name systems."
+    },
+    {
+      "company": "Oka Digital",
+      "location": "Porto Alegre, BR / Remote",
+      "description": "Oka was a hub for new digital projects",
+      "position": "Tech Leader",
+      "startDate": "2012-02-01",
+      "endDate": "2014-06-30",
+      "summary": "Evaluation of technologies to be used to develop front-end of websites and online stores."
+    },
+    {
+      "company": "Flexxo IT Training Center",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "IT Training Center Flexxo has qualified professionals and certified instructors to serve the public in the interior of RS - Brazil.",
+      "website": "http://www.flexxo.com.br",
+      "position": "Trainer",
+      "startDate": "2011-12-01",
+      "endDate": "2012-06-30",
+      "summary": "Trainer of courses \"Developing Web Applications with Microsoft Visual Studio 2010\" - 10264A and \"Programming in C# with Microsoft Visual Studio 2010\" - 10266A."
+    },
+    {
+      "company": "Fábrica do Design",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "FDD is a tech branch for marketing agencies.",
+      "website": "http://www.fdd.com.br",
+      "position": "Software Engineer",
+      "startDate": "2011-09-01",
+      "endDate": "2011-11-30",
+      "summary": "Development of internal social network for Unilever in order to share experiences in the use of the company products, to be published in Cloud Services (AppHarbor or Windows Azure)."
+    },
+    {
+      "company": "Associação Literária São Boaventura",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "A holding that administer the companies owned by Franciscan Capuchins Catholic order.",
+      "website": "http://www.capuchinhos.org.br/caprs/assistencia-social/associacao-literaria-sao-boaventura",
+      "position": "Software Engineer",
+      "startDate": "2011-04-01",
+      "endDate": "2011-08-31",
+      "summary": "Intranet deployment with Sharepoint 2010. \n Creating advanced reports with Reporting Services integrated with internal ERP and Sharepoint. \n Monitoring, testing and code review of software developed by third party companies."
+    },
+    {
+      "company": "Effective Software",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "A company specialized in developing software for business management",
+      "website": "http://effectiveerp.com.br",
+      "position": "Software Engineer",
+      "startDate": "2011-01-01",
+      "endDate": "2011-03-31",
+      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe). Using Oracle database. \n Access to Web Services of the Department of Finance of Brazil (SeFaz)."
+    },
+    {
+      "company": "Fábrica do Design",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "FDD is a tech branch for marketing agencies.",
+      "website": "http://www.fdd.com.br",
+      "position": "Software Engineer",
+      "startDate": "2009-12-01",
+      "endDate": "2010-12-31",
+      "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \n Integrated systems with social networks (Twitter, Facebook and Live Messenger). \n Development of intelligent systems for Unilever and Itaú Bank."
     }
   ],
   "volunteer": [
@@ -91,8 +150,8 @@
     },
     {
       "institution": "Universidade Feevale",
-      "area": "Electronics Engineering",
-      "studyType": "Engineer",
+      "area": "Electronics Engineering (incomplete)",
+      "studyType": "Bachelors",
       "startDate": "2001-01-01",
       "endDate": "2003-12-31",
       "courses": [
@@ -102,21 +161,35 @@
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front End Development",
       "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "LESS",
+        "SASS",
+        "Javascript",
+        "React",
+        "Vue",
+        "Angular",
+        "Redux",
+        "Cerebral"
       ]
     },
     {
-      "name": "Compression",
+      "name": "Back End Development",
       "level": "Master",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Javascript",
+        "Express",
+        "Hapi",
+        ".Net",
+        "C#",
+        "ASP.Net MVC",
+        "SQL Server",
+        "MySQL",
+        "Postgres",
+        "MongoDB"
       ]
     }
   ],
