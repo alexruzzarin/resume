@@ -125,19 +125,42 @@
       "startDate": "2009-12-01",
       "endDate": "2010-12-31",
       "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \n Integrated systems with social networks (Twitter, Facebook and Live Messenger). \n Development of intelligent systems for Unilever and Itaú Bank."
+    },
+    {
+      "company": "Ebis Soluções em Informática",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "Ebis was a software factory focused in e-commerce and online stores.",
+      "position": "Software Engineer",
+      "startDate": "2008-12-01",
+      "endDate": "2009-12-31",
+      "summary": "Develop, maintain and perform customizations in websites and online stores. \n Integration with billing systems of Visa, Master Card, American Express, and the banks Banrisul, Itaú and Bradesco, besides services like PayPal and PagSeguro (a brazilian PayPal clone). \n Development and maintenance of mass mailing systems and intranet."
+    },
+    {
+      "company": "Di Uno Informática",
+      "location": "Caxias do Sul, RS, BR",
+      "description": "Di Uno is a technology company specialized in e-government.",
+      "website": "http://www.diuno.com.br",
+      "position": "Software Engineer",
+      "startDate": "2007-10-01",
+      "endDate": "2008-12-31",
+      "summary": "Develop and maintain the intranet projects (ASP.Net) and Sharepoint portals for Gerdau Group and Fras-le."
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
+      "organization": "NodeSchool Buenos Aires",
+      "position": "Tutor",
+      "website": "https://nodeschool.io",
+      "startDate": "2015-04-01",
+      "endDate": "2017-12-02",
+      "summary": "Open source workshops that teach web software skills. Do them on your own or at a workshop nearby."
+    },
+    {
+      "organization": "Programá tu futuro",
+      "position": "Tutor",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "summary": "A Buenos Aires government program to help include everyone in the digital world."
     }
   ],
   "education": [
