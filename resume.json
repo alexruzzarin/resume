@@ -45,7 +45,7 @@
       "website": "http://pager.com",
       "position": "Software Engineer",
       "startDate": "2015-05-01",
-      "summary": "Design and maintain the public Pager website and internal web applications used by staff and also the Android application used by clients, that include technologies like real-time chat and video conferencing. Technologies used in the web apps are Node.JS, React, Redux, Cerebral, Angular, Ember, and other UIs frameworks. \n Automation of the build and deployment of the web and Android applications using Webpack, Gulp, Shell Scripts, CircleCI and Jenkins with Docker containers."
+      "summary": "Design and maintain the public Pager website and internal web applications used by staff and also the Android application used by clients, that include technologies like real-time chat and video conferencing. In these web apps we use Node.JS, React, Redux, Cerebral, Angular, Ember, and other UIs frameworks. \n Automation of the build and deployment of the web and Android applications using Webpack, Gulp, Shell Scripts, CircleCI and Jenkins with Docker containers."
     },
     {
       "company": "Segundo Hogar",
@@ -195,6 +195,7 @@
         "React",
         "Vue",
         "Angular",
+        "Ember",
         "Redux",
         "Cerebral"
       ]
