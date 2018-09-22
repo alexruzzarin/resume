@@ -5,7 +5,7 @@
     "picture": "",
     "email": "alex@ruzzarin.net",
     "phone": "+54 911 30069761",
-    "website": "http://ruzzarin.net",
+    "website": "https://ruzzarin.net",
     "summary": "I started life as a programmer age 14, a passion which has stayed with me ever since. I’m always involved in a project, be it business or private, as I love to breathe life into a designer’s ideas. Solid product management and support team player skills are a given. I give and look for world class quality in all I do and pride myself in a productive, timely execution of all my projects. Currently I live in Buenos Aires - Argentina while I plan my next move.",
     "location": {
       "address": "Godoy Cruz 2449",
@@ -73,8 +73,8 @@
       "description": "Oka was a hub for new digital projects",
       "position": "Tech Leader",
       "startDate": "2012-02-01",
-      "endDate": "2014-06-30",
-      "summary": "Evaluation of technologies to be used to develop front-end of websites and online stores."
+      "endDate": "2012-06-30",
+      "summary": "Decision maker for the implementation of new technologies and subsequent front-end programming of websites and online stores."
     },
     {
       "company": "Flexxo IT Training Center",
@@ -153,7 +153,7 @@
       "website": "https://nodeschool.io",
       "startDate": "2015-04-01",
       "endDate": "2017-12-02",
-      "summary": "Open source workshops that teach web software skills. Do them on your own or at a workshop nearby."
+      "summary": "Open source workshops that teach web software skills."
     },
     {
       "organization": "Programá tu futuro",
@@ -177,9 +177,7 @@
       "studyType": "Bachelors",
       "startDate": "2001-01-01",
       "endDate": "2003-12-31",
-      "courses": [
-        "Trainee in the physics lab"
-      ]
+      "courses": ["Trainee in the physics lab"]
     }
   ],
   "skills": [
@@ -215,6 +213,25 @@
         "Postgres",
         "MongoDB"
       ]
+    },
+    {
+      "name": "Foundational",
+      "level":"Master",
+      "keywords": [
+        "Object Oriented Design",
+        "DDD",
+        "TDD",
+        "BDD",
+        "Design Patterns",
+        "SOA",
+        "Micro services",
+        "SaaS",
+        "PaaS",
+        "IaaS",
+        "Cloud",
+        "Docker",
+        "Scrum"
+      ]
     }
   ],
   "languages": [
@@ -234,10 +251,7 @@
   "interests": [
     {
       "name": "TV Shows",
-      "keywords": [
-        "DC's",
-        "Marvel's"
-      ]
+      "keywords": ["DC's", "Marvel's"]
     }
   ]
 }
