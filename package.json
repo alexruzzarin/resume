@@ -1,17 +1,16 @@
 {
   "name": "resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "Alex Ruzzarin JSON Resume",
   "main": "index.js",
   "dependencies": {
-    "hackmyresume": "^1.9.0-beta",
-    "jsonresume-theme-minimal": "^0.1.1",
-    "resume-cli": "^0.4.19"
+    "jsonresume-theme-elegant": "^1.12.1",
+    "resume-cli": "^1.1.2"
   },
   "devDependencies": {},
   "scripts": {
     "publish": "resume publish --theme fizz",
-    "build": "hackmyresume build resume.json TO out/resume.all -t ./node_modules/jsonresume-theme-minimal"
+    "build": "resume export dist/index.html --theme elegant "
   },
   "repository": {
     "type": "git",
