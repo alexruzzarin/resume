@@ -4,13 +4,15 @@
   "description": "Alex Ruzzarin JSON Resume",
   "main": "index.js",
   "dependencies": {
-    "jsonresume-theme-elegant": "^1.12.1",
+    "jsonresume-theme-cora": "^0.1.0",
+    "jsonresume-theme-short": "^0.1.7",
     "resume-cli": "^1.1.2"
   },
   "devDependencies": {},
   "scripts": {
-    "publish": "resume publish --theme fizz",
-    "build": "resume export dist/index.html --theme elegant "
+    "publish": "resume publish --theme cora",
+    "build": "resume export dist/index.html --theme cora",
+    "pdf": "resume export resume --format pdf --theme short"
   },
   "repository": {
     "type": "git",
