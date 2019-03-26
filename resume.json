@@ -102,7 +102,7 @@
       "description": "A holding that administer the companies owned by Franciscan Capuchins Catholic order.",
       "website": "http://www.capuchinhos.org.br/caprs/assistencia-social/associacao-literaria-sao-boaventura",
       "position": "Software Engineer",
-      "startDate": "2011-04-01",
+      "startDate": "2011-05-01",
       "endDate": "2011-08-31",
       "summary": "Intranet deployment with Sharepoint 2010. \n Creating advanced reports with Reporting Services integrated with internal ERP and Sharepoint. \n Monitoring, testing and code review of software developed by third party companies."
     },
@@ -112,8 +112,8 @@
       "description": "A company specialized in developing software for business management",
       "website": "http://effectiveerp.com.br",
       "position": "Software Engineer",
-      "startDate": "2011-01-01",
-      "endDate": "2011-03-31",
+      "startDate": "2011-02-01",
+      "endDate": "2011-04-31",
       "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe). Using Oracle database. \n Access to Web Services of the Department of Finance of Brazil (SeFaz)."
     },
     {
@@ -122,8 +122,8 @@
       "description": "FDD is a tech branch for marketing agencies.",
       "website": "http://www.fdd.com.br",
       "position": "Software Engineer",
-      "startDate": "2009-12-01",
-      "endDate": "2010-12-31",
+      "startDate": "2010-01-01",
+      "endDate": "2011-01-31",
       "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \n Integrated systems with social networks (Twitter, Facebook and Live Messenger). \n Development of intelligent systems for Unilever and Itaú Bank."
     },
     {
@@ -131,7 +131,7 @@
       "location": "Caxias do Sul, RS, BR",
       "description": "Ebis was a software factory focused in e-commerce and online stores.",
       "position": "Software Engineer",
-      "startDate": "2008-12-01",
+      "startDate": "2009-02-01",
       "endDate": "2009-12-31",
       "summary": "Develop, maintain and perform customizations in websites and online stores. \n Integration with billing systems of Visa, Master Card, American Express, and the banks Banrisul, Itaú and Bradesco, besides services like PayPal and PagSeguro (a brazilian PayPal clone). \n Development and maintenance of mass mailing systems and intranet."
     },
@@ -142,7 +142,7 @@
       "website": "http://www.diuno.com.br",
       "position": "Software Engineer",
       "startDate": "2007-10-01",
-      "endDate": "2008-12-31",
+      "endDate": "2009-01-31",
       "summary": "Develop and maintain the intranet projects (ASP.Net) and Sharepoint portals for Gerdau Group and Fras-le."
     }
   ],
