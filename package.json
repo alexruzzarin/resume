@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "publish": "resume publish --theme cora",
-    "build": "resume export dist/index.html --theme cora",
+    "build": "resume export public/index.html --theme cora",
     "pdf": "resume export resume --format pdf --theme short"
   },
   "repository": {
