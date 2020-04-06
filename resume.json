@@ -3,16 +3,14 @@
     "name": "Alex Ruzzarin",
     "label": "Software Engineer",
     "picture": "",
-    "email": "alex@ruzzarin.net",
+    "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
-    "website": "https://alex.ruzzarin.net",
+    "website": "https://alex.ruzzar.in",
     "summary": "I started life as a programmer age 14, a passion which has stayed with me ever since. I’m always involved in a project, be it business or private, as I love to breathe life into a designer’s ideas. Solid product management and support team player skills are a given. I give and look for world class quality in all I do and pride myself in a productive, timely execution of all my projects. Currently I live in Buenos Aires - Argentina while I plan my next move.",
     "location": {
-      "address": "Rua Carlos Bianchini, 1072 / 102",
-      "postalCode": "95013-000",
-      "city": "Caxias do Sul",
-      "countryCode": "BR",
-      "region": "RS"
+      "city": "New York",
+      "countryCode": "US",
+      "region": "NY"
     },
     "profiles": [
       {
@@ -190,10 +188,10 @@
         "LESS",
         "SASS",
         "Javascript",
+        "Typescript",
         "React",
         "Vue",
         "Angular",
-        "Ember",
         "Redux",
         "Cerebral"
       ]
@@ -203,21 +201,22 @@
       "level": "Master",
       "keywords": [
         "Javascript",
+        "Serverless",
         "Express",
         "Hapi",
         ".Net",
+        ".Net Core",
         "C#",
         "ASP.Net MVC",
-        "SQL Server",
-        "MySQL",
-        "Postgres",
-        "MongoDB"
+        "Multiple Databases"
       ]
     },
     {
       "name": "Foundational",
-      "level":"Master",
+      "level": "Master",
       "keywords": [
+        "CI",
+        "CD",
         "Object Oriented Design",
         "DDD",
         "TDD",
@@ -246,6 +245,10 @@
     {
       "language": "English",
       "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic"
     }
   ]
 }
