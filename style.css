@@ -1,0 +1,227 @@
+body {
+    font-family: Montserrat;
+    font-size:1em;
+    color: #333333;
+}
+
+.picture {
+    border-radius: 3%;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #4e4e4e;
+}
+
+a:hover {
+    color: #4e4e4e;
+    text-decoration: underline;
+}
+
+header {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 0.2em;
+}
+
+h2 {
+    font-size: 1.7em;
+    margin-top: 2em;
+    margin-bottom: 0.2em;
+}
+
+h3 {
+    font-size: 1.3em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h4 {
+    color: #4e4e4e;
+    font-size: 1.1em;
+    margin-top: 0;
+}
+
+.profile {
+    font-family: Montserrat;
+    white-space:nowrap;
+    margin: 0.5em;
+}
+
+.contact-header {
+    font-weight: bold;
+    color: #4e4e4e;
+    margin:1em;
+}
+
+.contact-header .fa {
+    font-size: 1.5em;
+}
+
+.profile .fa {
+    font-size: 1.5em;
+}
+
+.label {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+.fa {
+    font-size: 2em;
+}
+
+.left {
+    font-size: 1em;
+}
+
+.main {
+    margin: 0 auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+}
+
+.skills {
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Open Sans';
+}
+
+li {
+    font-family: 'Open Sans';
+}
+
+.keywords {
+    background-color: #333333;
+    color: #fff;
+    padding: 6px;
+    margin-bottom: 5px;
+    display: inline-block;
+}
+
+blockquote {
+    margin: 2em 10px;
+    padding: 1em 10px;
+    border-left: 10px solid #edf0f5;
+    font-family: 'Open Sans';
+    font-size: 1.5em;
+}
+
+blockquote .name {
+    font-weight: bold;
+    font-family: "Montserrat";
+}
+
+.responsive-show {
+    display: none;
+}
+
+.address {
+    display: block
+}
+
+section.skills {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 1000px) {
+    header {
+        font-size: 1.66em;
+    }
+    h2 {
+        font-size: 3em;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    p {
+        font-size: 1.2em;
+    }
+    li {
+        font-size: 1.2em;
+    }
+    blockquote {
+        font-size: 1.2em;
+    }
+    h2 {
+        font-size: 2.3em;
+    }
+    .responsive-hidden {
+        display: none;
+        visibility: hidden;
+    }
+    .responsive-show {
+        display: inline;
+        visibility: visible;
+    }
+}
+
+@media print {
+
+    body {
+        font-size:0.6em;
+    }
+
+    .address {
+        display: inline-block
+    }
+
+    .profile {
+        font-size: 1em;
+        display: inline-block
+    }
+
+    #profiles .contact-header {
+        display: none;
+    }
+
+    #languages,
+    #interests {
+        display: none;
+    }
+
+    section.skills section {
+        margin-right: 10em
+    }
+
+    .skills{
+        page-break-inside: avoid;
+    }
+
+    .main{
+        padding:10px;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+
+    section:not(#work) {
+        page-break-inside: avoid;
+    }
+
+    .job {
+        page-break-inside: avoid;
+    }
+
+    @page  
+    { 
+        size: auto;   /* auto is the initial value */ 
+        /* this affects the margin in the printer settings */ 
+        margin: 25mm 10mm;  
+    }
+}
