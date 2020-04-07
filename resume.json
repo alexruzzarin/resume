@@ -6,7 +6,7 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-    "summary": "I started life as a programmer age 14, a passion which has stayed with me ever since. I’m always involved in a project, be it business or private, as I love to breathe life into a designer’s ideas. Solid product management and support team player skills are a given. I give and look for world class quality in all I do and pride myself in a productive, timely execution of all my projects. Currently I live in Buenos Aires - Argentina while I plan my next move.",
+    "summary": "My first contact with a programming language was on my age 13 when I found out that I can automate things on IRC using mIRC Scripting Language. After that, I learned HTML and Perl + CGI to create my first website. Then I learned Javascript and CSS. I spend some time with PHP when it became popular in early 2000.\nI also develop a hobby interest in electronics since high school, where I learned to program microcontrollers. When I joined the Electronic Engineering university, after getting in touch with different types of programable sensors and microcontrollers I was sure that my true passion is programming, not electronics.\nI got my first job as a .Net developer and since then I develop a nice variety of skills, from frontend frameworks to a deep understanding of DNS to support Argentinian cTLD, with lots of fancy words in the middle (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and noSQL databases, Web Services, OAuth, CI, CD and much more).\n6 years ago, I focused my career in the frontend, learning frameworks like React and Vue, using all my previous knowledge to help my teams to create better frontend architectures, well-integrated with the backend services and automating everything, from build to production deployment, ensuring a nice development experience to the teams I'm working with.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -41,7 +41,7 @@
       "location": "New York, US / Remote",
       "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high quality care.",
       "website": "http://pager.com",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
       "summary": "Design and maintain the public Pager website and internal web applications used by staff and also the Android application used by clients, that include technologies like real-time chat and video conferencing. In these web apps we use Node.JS, React, Redux, Cerebral, Angular, Ember, and other UIs frameworks. \n Automation of the build and deployment of the web and Android applications using Webpack, Gulp, Shell Scripts, CircleCI and Jenkins with Docker containers."
     },
@@ -50,7 +50,7 @@
       "location": "Autonomous City of Buenos Aires, AR",
       "description": "Segundo Hogar was an Vacation Rental Booking Platform in Latin America",
       "website": "http://segundohogar.com",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2014-09-01",
       "endDate": "2015-04-30",
       "summary": "Development and maintenance of the website, mobile site, backend and APIs for a vacation rental platform using Node.js, Express, Angular and ElasticSearch."
@@ -60,10 +60,10 @@
       "location": "Autonomous City of Buenos Aires, AR",
       "description": "ADC is a consultant in technology and software development",
       "website": "http://www.adconsa.com.ar",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Design of solutions, integration between projects, upgrading of the technology platform, training and certification of personnel. \n My main task was to integrate the new system for Argentina's domain names written in .Net and the Bind DNS servers running in Linux, giving me the opportunity to gain in depth knowledge about domain name systems."
+      "summary": "Design of solutions, integration between projects, upgrading of the technology platform, training and certification of personnel. \n My main task was to integrate the new system for Argentina's domain names (cTLD) written in .Net and the Bind DNS servers running in Linux, giving me the opportunity to gain in depth knowledge about domain name systems (DNS)."
     },
     {
       "company": "Oka Digital",
@@ -89,7 +89,7 @@
       "location": "Caxias do Sul, RS, BR",
       "description": "FDD is a tech branch for marketing agencies.",
       "website": "http://www.fdd.com.br",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2011-09-01",
       "endDate": "2011-11-30",
       "summary": "Development of internal social network for Unilever in order to share experiences in the use of the company products, to be published in Cloud Services (AppHarbor or Windows Azure)."
@@ -99,17 +99,17 @@
       "location": "Caxias do Sul, RS, BR",
       "description": "A holding that administer the companies owned by Franciscan Capuchins Catholic order.",
       "website": "http://www.capuchinhos.org.br/caprs/assistencia-social/associacao-literaria-sao-boaventura",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
-      "summary": "Intranet deployment with Sharepoint 2010. \n Creating advanced reports with Reporting Services integrated with internal ERP and Sharepoint. \n Monitoring, testing and code review of software developed by third party companies."
+      "summary": "Intranet deployment with Sharepoint. \n Creating advanced reports with Reporting Services integrated with internal ERP and Sharepoint. \n Analisys, monitoring, testing and code review of software developed by external providers."
     },
     {
       "company": "Effective Software",
       "location": "Caxias do Sul, RS, BR",
       "description": "A company specialized in developing software for business management",
       "website": "http://effectiveerp.com.br",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2011-02-01",
       "endDate": "2011-04-31",
       "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe). Using Oracle database. \n Access to Web Services of the Department of Finance of Brazil (SeFaz)."
@@ -119,7 +119,7 @@
       "location": "Caxias do Sul, RS, BR",
       "description": "FDD is a tech branch for marketing agencies.",
       "website": "http://www.fdd.com.br",
-      "position": "Software Engineer",
+      "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
       "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \n Integrated systems with social networks (Twitter, Facebook and Live Messenger). \n Development of intelligent systems for Unilever and Itaú Bank."
@@ -248,7 +248,7 @@
     },
     {
       "language": "Italian",
-      "fluency": "Basic"
+      "fluency": "Beginner"
     }
   ]
 }
