@@ -6,7 +6,7 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-    "summary": "My first contact with a programming language was on my age 13 when I found out that I can automate things on IRC using mIRC Scripting. After that, I learned HTML and Perl + CGI to create my first website. Then I learned Javascript and CSS. I spend some time with PHP when it became popular in earlies 2000s.\nI also develop a hobby interest in electronics since high school, where I learned to program microcontrollers. When I joined the Electronic Engineering university, after getting in touch with different types of programable sensors and microcontrollers I was sure that my true passion is programming, not electronics.\nI got my first job as a .Net developer and since then I develop a nice variety of skills, from frontend frameworks to a deep understanding of DNS to support Argentinian cTLD, with lots of fancy words in the middle (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and noSQL, Web Services, OAuth, CI, CD and much more).\n6 years ago, I focused my career in the frontend, learning frameworks like React and Vue, using all my previous knowledge to help my teams to create better frontend architectures, well-integrated with the backend services and automating everything, from build to production deployment, ensuring a nice development experience to the teams I'm working with.",
+    "summary": "My first contact with a programming language was at age 13 when I found out that I could automate things on IRC using mIRC Scripting. After that, I learned HTML and Perl + CGI to create my first website. Then I learned Javascript and CSS. I spent some time with PHP when it became popular in the early years of 2000.\nI had also had a hobby interest in electronics since high school, where I learned to program micro-controllers. When I joined the Electronic Engineering university, but after some courses in different types of programable sensors and micro-controllers, I was sure that my true passion is programming, not electronics.\nI got my first job as a .Net developer in 2007 and since then I developed a wide variety of skills, from front-end frameworks to a deep understanding of DNS to support Argentinian cTLD, with lots of fancy words in the middle (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and noSQL, Web Services, OAuth, CI, CD and much more).\nIn 2014 I focused my career on front-end development, learning frameworks like React and Vue while using all my previous knowledge to help my teams to create better front-end architectures, seamlessly integrated with the back-end services and automating everything, from build to production deployment, ensuring a seamless, less stressful and enjoyable development experience for the teams I'm working with.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -38,32 +38,32 @@
   "work": [
     {
       "company": "Pager",
-      "location": "New York, US / Remote",
-      "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high quality care.",
+      "location": "New York, US",
+      "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high-quality care.",
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
-      "summary": "Design and maintain the public Pager website and internal web applications used by staff and also the Android application used by clients, that include technologies like real-time chat and video conferencing. In these web apps we use Node.JS, React, Redux, Cerebral, Angular, Ember, and other UIs frameworks. \n Automation of the build and deployment of the web and Android applications using Webpack, Gulp, Shell Scripts, CircleCI and Jenkins with Docker containers."
+      "summary": "Architect and maintain the Pager Web SDK (a library to easily integrate our platform in client websites), internal web applications used by staff and also the old Android consumer application, which includes technologies like real-time chat and video conferencing. \nIn these web apps we use Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nAutomation of the build, versioning and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
     },
     {
       "company": "Segundo Hogar",
       "location": "Autonomous City of Buenos Aires, AR",
-      "description": "Segundo Hogar was an Vacation Rental Booking Platform in Latin America",
+      "description": "Segundo Hogar was a Vacation Rental Booking Platform for the Latin American market.",
       "website": "http://segundohogar.com",
       "position": "Senior Software Engineer",
       "startDate": "2014-09-01",
       "endDate": "2015-04-30",
-      "summary": "Development and maintenance of the website, mobile site, backend and APIs for a vacation rental platform using Node.js, Express, Angular and ElasticSearch."
+      "summary": "Development and maintenance of the website, mobile site, payment systems, backend and APIs for a vacation rental platform using Node.js, Express, Angular and ElasticSearch."
     },
     {
       "company": "ADC - Administradora de Conocimientos",
       "location": "Autonomous City of Buenos Aires, AR",
-      "description": "ADC is a consultant in technology and software development",
+      "description": "ADC was a software consulting company in technology and development.",
       "website": "http://www.adconsa.com.ar",
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Design of solutions, integration between projects, upgrading of the technology platform, training and certification of personnel. \n My main task was to integrate the new system for Argentina's domain names (cTLD) written in .Net and the Bind DNS servers running in Linux, giving me the opportunity to gain in depth knowledge about domain name systems (DNS)."
+      "summary": "Architect and design of software solutions, projects and platforms integration, upgrading of the technology platform, training and certification of personnel. \nMy main project was to integrate the new system for Argentina's domain names (cTLD) written in .Net and the Bind DNS servers running in Linux, allowing me to gain a depth knowledge about domain name systems (DNS)."
     },
     {
       "company": "Oka Digital",
@@ -72,14 +72,14 @@
       "position": "Tech Leader",
       "startDate": "2012-02-01",
       "endDate": "2012-06-30",
-      "summary": "Decision maker for the implementation of new technologies and subsequent front-end programming of websites and online stores."
+      "summary": "Decision maker for the architect and implementation of new technologies and subsequent front-end programming using modern Javascript frameworks to create websites and online stores."
     },
     {
       "company": "Flexxo IT Training Center",
       "location": "Caxias do Sul, RS, BR",
       "description": "IT Training Center Flexxo has qualified professionals and certified instructors to serve the public in the interior of RS - Brazil.",
       "website": "http://www.flexxo.com.br",
-      "position": "Trainer",
+      "position": "Microsoft Trainer",
       "startDate": "2011-12-01",
       "endDate": "2012-06-30",
       "summary": "Trainer of courses \"Developing Web Applications with Microsoft Visual Studio 2010\" - 10264A and \"Programming in C# with Microsoft Visual Studio 2010\" - 10266A."
@@ -87,22 +87,22 @@
     {
       "company": "Fábrica do Design",
       "location": "Caxias do Sul, RS, BR",
-      "description": "FDD is a tech branch for marketing agencies.",
+      "description": "FDD is a tech branch for marketing agencies. FDD specializes in turning ideas into real products.",
       "website": "http://www.fdd.com.br",
       "position": "Senior Software Engineer",
       "startDate": "2011-09-01",
       "endDate": "2011-11-30",
-      "summary": "Development of internal social network for Unilever in order to share experiences in the use of the company products, to be published in Cloud Services (AppHarbor or Windows Azure)."
+      "summary": "Development of internal social network for Unilever in order to share experiences in the use of the company products, to be deployed in Cloud Services (Windows Azure)."
     },
     {
       "company": "Associação Literária São Boaventura",
       "location": "Caxias do Sul, RS, BR",
-      "description": "A holding that administer the companies owned by Franciscan Capuchins Catholic order.",
+      "description": "A holding who administer the companies owned by Franciscan Capuchins Catholic order.",
       "website": "http://www.capuchinhos.org.br/caprs/assistencia-social/associacao-literaria-sao-boaventura",
       "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
-      "summary": "Intranet deployment with Sharepoint. \n Creating advanced reports with Reporting Services integrated with internal ERP and Sharepoint. \n Analisys, monitoring, testing and code review of software developed by external providers."
+      "summary": "Analisys, monitoring, testing and code review of software developed by external providers. \nIntranet deployment with Sharepoint. \nCreating advanced reports with Reporting Services integrated with internal ERP and Sharepoint."
     },
     {
       "company": "Effective Software",
@@ -112,17 +112,17 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-02-01",
       "endDate": "2011-04-31",
-      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe). Using Oracle database. \n Access to Web Services of the Department of Finance of Brazil (SeFaz)."
+      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe) in Brazil. Using Oracle database. \nAccess to Web Services of the Department of Finance of Brazil (SeFaz)."
     },
     {
       "company": "Fábrica do Design",
       "location": "Caxias do Sul, RS, BR",
-      "description": "FDD is a tech branch for marketing agencies.",
+      "description": "FDD is a tech branch for marketing agencies. FDD specializes in turning ideas into real products.",
       "website": "http://www.fdd.com.br",
       "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
-      "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \n Integrated systems with social networks (Twitter, Facebook and Live Messenger). \n Development of intelligent systems for Unilever and Itaú Bank."
+      "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \nConnect systems with social networks using OAuth. \nDevelopment of intelligent systems for Unilever and Itaú Bank."
     },
     {
       "company": "Ebis Soluções em Informática",
@@ -131,7 +131,7 @@
       "position": "Software Engineer",
       "startDate": "2009-02-01",
       "endDate": "2009-12-31",
-      "summary": "Develop, maintain and perform customizations in websites and online stores. \n Integration with billing systems of Visa, Master Card, American Express, and the banks Banrisul, Itaú and Bradesco, besides services like PayPal and PagSeguro (a brazilian PayPal clone). \n Development and maintenance of mass mailing systems and intranet."
+      "summary": "Develop, maintain and perform customizations in websites and online stores using ASP.Net Web Forms and MVC. \nIntegration with billing systems of Visa, Master Card, American Express, and the brazilian banks Banrisul, Itaú and Bradesco, besides services like PayPal and PagSeguro (a brazilian PayPal 'clone'). \nDevelopment and maintenance of mass mailing systems and intranets."
     },
     {
       "company": "Di Uno Informática",
@@ -141,7 +141,7 @@
       "position": "Software Engineer",
       "startDate": "2007-10-01",
       "endDate": "2009-01-31",
-      "summary": "Develop and maintain the intranet projects (ASP.Net) and Sharepoint portals for Gerdau Group and Fras-le."
+      "summary": "Develop and maintain the intranet projects (ASP.Net) and Sharepoint portals for big industries like Gerdau S/A, Fras-le and Randon S/A."
     }
   ],
   "volunteer": [
