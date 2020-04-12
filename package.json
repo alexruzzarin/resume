@@ -4,15 +4,15 @@
   "description": "Alex Ruzzarin JSON Resume",
   "main": "index.js",
   "dependencies": {
-    "dateformat": "3.0.3",
-    "handlebars": "4.7.6",
+    "jsonresume-theme-caffeine": "^1.2.3",
+    "jsonresume-theme-orbit": "^1.0.3",
     "resume-cli": "1.1.2"
   },
   "devDependencies": {},
   "scripts": {
-    "start": "resume serve",
-    "publish": "resume publish",
-    "build": "resume export public/index.html",
+    "start": "resume serve --theme orbit",
+    "publish": "resume publish --theme orbit",
+    "build": "resume export public/index.html --theme orbit",
     "pdf": "resume export resume --format pdf --theme short"
   },
   "repository": {
