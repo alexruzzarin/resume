@@ -98,7 +98,7 @@
       "company": "Associação Literária São Boaventura",
       "location": "Caxias do Sul, RS, BR",
       "description": "A holding who administer the companies owned by Franciscan Capuchins Catholic order.",
-      "website": "http://www.capuchinhos.org.br/caprs/assistencia-social/associacao-literaria-sao-boaventura",
+      "website": "http://www.capuchinhos.org.br",
       "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
@@ -236,19 +236,19 @@
   "languages": [
     {
       "language": "Portuguese",
-      "fluency": "Native speaker"
+      "fluency": "Native or bilingual proficiency"
     },
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Native or bilingual proficiency"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Full professional proficiency"
     },
     {
       "language": "Italian",
-      "fluency": "Beginner"
+      "fluency": "Limited working proficiency"
     }
   ]
 }
