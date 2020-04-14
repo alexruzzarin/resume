@@ -3,9 +3,9 @@ import Email from "../../icons/envelope-solid.svg";
 import Websites from "../../icons/globe-solid.svg";
 import PhoneNumber from "../../icons/phone-alt-solid.svg";
 import GitHub from "../../icons/github-brands.svg";
-import Twitter from "../../icons/twitter-brands.svg";
-import Facebook from "../../icons/facebook-f-brands.svg";
-import Instagram from "../../icons/instagram-brands.svg";
+// import Twitter from "../../icons/twitter-brands.svg";
+// import Facebook from "../../icons/facebook-f-brands.svg";
+// import Instagram from "../../icons/instagram-brands.svg";
 import Summary from "../../icons/user-solid.svg";
 import WorkExperience from "../../icons/laptop-solid.svg";
 import Volunteer from "../../icons/hands-helping-solid.svg";
@@ -17,9 +17,9 @@ const types = {
   Websites,
   "Phone Number": PhoneNumber,
   GitHub,
-  Twitter,
-  Facebook,
-  Instagram,
+  // Twitter,
+  // Facebook,
+  // Instagram,
   Summary,
   "Work Experience": WorkExperience,
   Volunteer,
