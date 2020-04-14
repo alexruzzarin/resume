@@ -38,7 +38,7 @@
   "work": [
     {
       "company": "Pager",
-      "location": "New York, US",
+      "location": "New York, NY, US",
       "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high-quality care.",
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
@@ -47,7 +47,7 @@
     },
     {
       "company": "Segundo Hogar",
-      "location": "Autonomous City of Buenos Aires, AR",
+      "location": "City of Buenos Aires, AR",
       "description": "Segundo Hogar was a Vacation Rental Booking Platform for the Latin American market.",
       "website": "http://segundohogar.com",
       "position": "Senior Software Engineer",
@@ -57,7 +57,7 @@
     },
     {
       "company": "ADC - Administradora de Conocimientos",
-      "location": "Autonomous City of Buenos Aires, AR",
+      "location": "City of Buenos Aires, AR",
       "description": "ADC was a software consulting company in technology and development.",
       "website": "http://www.adconsa.com.ar",
       "position": "Senior Software Engineer",
@@ -67,7 +67,7 @@
     },
     {
       "company": "Oka Digital",
-      "location": "Porto Alegre, BR / Remote",
+      "location": "Porto Alegre, RS, BR / Remote",
       "description": "Oka was a hub for new digital projects",
       "position": "Tech Leader",
       "startDate": "2012-02-01",
