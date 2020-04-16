@@ -10,7 +10,7 @@
     "next-react-svg": "1.1.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "resume-cli": "1.1.2"
+    "resume-cli": "1.2.7"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "2.1.2",
