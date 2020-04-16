@@ -28,7 +28,7 @@
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
-      "summary": "Architect and maintain the Pager Web SDK (a library to easily integrate our platform in client websites), internal web applications used by staff and also the old Android consumer application, which includes technologies like real-time chat and video conferencing. \nIn these web apps we use Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nAutomation of the build, versioning and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
+      "summary": "Architect the Pager Web SDK (a library to easily integrate our platform in client websites) and do its maintenance. Development and maintenance of web applications used by our staff and external medicine providers. \nAt Pager we create real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nAutomation of the build, versioning and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
     },
     {
       "company": "Segundo Hogar",
