@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         sans: ["'Josefin Sans'", ...defaultTheme.fontFamily.sans],
       },
+      screens: {
+        print: { raw: "print" },
+        // => @media  print { ... }
+      },
     },
   },
 };

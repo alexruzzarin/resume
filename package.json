@@ -4,13 +4,10 @@
   "description": "Alex Ruzzarin JSON Resume",
   "main": "index.js",
   "dependencies": {
-    "jsonresume-theme-caffeine": "1.2.3",
-    "jsonresume-theme-orbit": "1.0.3",
     "next": "9.3.5",
     "next-react-svg": "1.1.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "resume-cli": "1.2.7"
+    "react-dom": "16.13.1"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "2.1.2",

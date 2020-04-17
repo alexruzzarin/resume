@@ -20,19 +20,21 @@ const Index: NextPage = () => {
   } = resume;
   const { summary } = basics;
   return (
-    <div className="container mx-auto my-16 text-gray-800 bg-gray-100 border-teal-600 border-t-8 shadow-2xl">
-      <header className="p-8 bg-teal-900 text-teal-100">
-        <h1 className="text-5xl font-bold uppercase">{basics.name}</h1>
-        <h2 className="text-2xl uppercase">{basics.label}</h2>
+    <div className="container mx-auto my-16 print:my-0 text-gray-800 print:text-black bg-gray-100 border-teal-600 print:border-black border-t-8 shadow-2xl print:shadow-none">
+      <header className="p-8 print:p-0 bg-teal-900 text-teal-100 print:text-black print:border-b-2 print:mb-2">
+        <h1 className="text-5xl print:text-5xl font-bold uppercase">
+          {basics.name}
+        </h1>
+        <h2 className="text-2xl print:text-2xl uppercase">{basics.label}</h2>
       </header>
       <main className="flex flex-wrap">
-        <aside className="bg-teal-400 text-teal-900 p-8 w-full sm:w-2/5 lg:w-1/3 xl:w-1/5">
+        <aside className="bg-teal-400 text-teal-900 print:text-black p-8 print:p-0 print:pr-2 w-full sm:w-2/5 lg:w-1/3 xl:w-1/5 print:w-1/3">
           <About basics={basics} />
           <Skills skills={skills} />
           <Languages languages={languages} />
         </aside>
-        <div className="p-8 w-full sm:w-3/5 lg:w-2/3 xl:w-4/5 font-light">
-          <section className="mb-8">
+        <div className="p-8 print:p-0 print:pl-2 w-full sm:w-3/5 lg:w-2/3 xl:w-4/5 print:w-2/3 font-light">
+          <section className="mb-8" style={{ pageBreakAfter: "always" }}>
             <H3>
               <Icon type="Summary" />
               Summary
@@ -46,7 +48,7 @@ const Index: NextPage = () => {
             </H3>
             {works &&
               works.map((work, index) => (
-                <div key={index} className="mb-6">
+                <div key={index} className="mb-6 print:mb-5">
                   <header>
                     <div className="float-right text-right">
                       <h5 className="font-bold">{work.position}</h5>

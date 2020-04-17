@@ -9,7 +9,7 @@ interface LanguagesProps {
 
 const Languages: React.FC<LanguagesProps> = ({ languages }) => {
   return (
-    <AsideSection>
+    <AsideSection style={{ pageBreakBefore: "always" }}>
       <H3>Languages</H3>
       <AsideList>
         {languages &&
@@ -17,7 +17,9 @@ const Languages: React.FC<LanguagesProps> = ({ languages }) => {
             return (
               <AsideListItem key={index}>
                 <h6>{language.language}</h6>
-                <span className="italic font-light text-sm">{language.fluency}</span>
+                <span className="italic font-light text-sm">
+                  {language.fluency}
+                </span>
               </AsideListItem>
             );
           })}

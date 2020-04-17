@@ -12,7 +12,7 @@ const About: React.FC<AboutProps> = ({ basics }) => {
   const { location, profiles } = basics;
 
   return (
-    <AsideSection>
+    <AsideSection style={{ pageBreakAfter: "always" }}>
       <H3>About</H3>
       <AsideList>
         <AsideListItem>

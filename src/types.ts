@@ -26,7 +26,7 @@ export interface Location {
 }
 
 export interface Profile {
-  network: "GitHub"; // | "Twitter" | "Facebook" | "Instagram";
+  network: "GitHub" | "LinkedIn"; // | "Twitter" | "Facebook" | "Instagram";
   username: string;
   url: string;
 }

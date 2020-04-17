@@ -3,6 +3,7 @@ import Email from "../../icons/envelope-solid.svg";
 import Websites from "../../icons/globe-solid.svg";
 import PhoneNumber from "../../icons/phone-alt-solid.svg";
 import GitHub from "../../icons/github-brands.svg";
+import LinkedIn from "../../icons/linkedin-in-brands.svg";
 // import Twitter from "../../icons/twitter-brands.svg";
 // import Facebook from "../../icons/facebook-f-brands.svg";
 // import Instagram from "../../icons/instagram-brands.svg";
@@ -17,6 +18,7 @@ const types = {
   Websites,
   "Phone Number": PhoneNumber,
   GitHub,
+  LinkedIn,
   // Twitter,
   // Facebook,
   // Instagram,
@@ -34,7 +36,13 @@ interface IconProps {
 
 const Icon: React.FC<IconProps> = ({ type, ...rest }) => {
   const IconType = types[type];
-  return <IconType alt={type} className="inline h-6 w-6 mr-2" {...rest} />;
+  return (
+    <IconType
+      alt={type}
+      className="inline h-6 w-6 mr-2 print:h-4 print:w-4"
+      {...rest}
+    />
+  );
 };
 
 export default Icon;

@@ -17,6 +17,11 @@
         "network": "GitHub",
         "username": "alexruzzarin",
         "url": "https://github.com/alexruzzarin"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "alexruzzarin",
+        "url": "https://www.linkedin.com/in/alexruzzarin"
       }
     ]
   },
@@ -48,7 +53,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Architect and design of software solutions, projects and platforms integration, upgrading of the technology platform, training and certification of personnel. \nMy main project was to integrate the new system for Argentina's domain names (cTLD) written in .Net and the Bind DNS servers running in Linux, allowing me to gain a depth knowledge about domain name systems (DNS)."
+      "summary": "Architect and design of software solutions, projects and platforms integration, upgrading of the technology platform, training and certification of personnel. \nMy main project was to integrate the new system for Argentina's domain names (ccTLD) written in .Net and the Bind DNS servers running in Linux, allowing me to gain a depth knowledge about domain name systems (DNS)."
     },
     {
       "company": "Oka Digital",
