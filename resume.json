@@ -29,21 +29,21 @@
     {
       "company": "Pager",
       "location": "New York, NY, US",
-      "description": "At Pager, we are on a mission to transform healthcare, by offering patients better tools and more access to high-quality care.",
+      "description": "At Pager, we are on a mission to transform healthcare by offering patients better tools and more access to high-quality care.",
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
-      "summary": "Architect the Pager Web SDK (a library to easily integrate our platform in client websites) and do its maintenance. Development and maintenance of web applications used by our staff and external medicine providers. \nAt Pager we create real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nAutomation of the build, versioning and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
+      "summary": "Pager create real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate our platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
     },
     {
       "company": "Segundo Hogar",
       "location": "City of Buenos Aires, AR",
-      "description": "Segundo Hogar was a Vacation Rental Booking Platform for the Latin American market.",
+      "description": "A vacation rental booking platform for the Latin American market.",
       "website": "http://segundohogar.com",
       "position": "Senior Software Engineer",
       "startDate": "2014-09-01",
       "endDate": "2015-04-30",
-      "summary": "Development and maintenance of the website, mobile site, payment systems, backend and APIs for a vacation rental platform using Node.js, Express, Angular and ElasticSearch."
+      "summary": "Developed and maintained the website, mobile site, payment systems, backend, and APIs for a vacation rental platform using Node.js, Express, Angular, and ElasticSearch."
     },
     {
       "company": "ADC - Administradora de Conocimientos",
@@ -53,21 +53,21 @@
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Architect and design of software solutions, projects and platforms integration, upgrading of the technology platform, training and certification of personnel. \nMy main project was to integrate the new system for Argentina's domain names (ccTLD) written in .Net and the Bind DNS servers running in Linux, allowing me to gain a depth knowledge about domain name systems (DNS)."
+      "summary": "Architect and designed the software solutions, projects and platforms integration, and upgrading of the technology platform, \nProvided the training and certification of company personnel. \nSpearheaded and developed the project to integrate the new system for Argentina's domain names (ccTLD) written in .Net with the Bind DNS servers running in Linux."
     },
     {
       "company": "Oka Digital",
       "location": "Porto Alegre, RS, BR / Remote",
-      "description": "Oka was a hub for new digital projects",
+      "description": "A hub for new digital projects.",
       "position": "Tech Leader",
       "startDate": "2012-02-01",
       "endDate": "2012-06-30",
-      "summary": "Decision maker for the architect and implementation of new technologies and subsequent front-end programming using modern Javascript frameworks to create websites and online stores."
+      "summary": "Architect and implementation of new technologies with subsequent front-end programming, using modern Javascript frameworks to create websites and online stores."
     },
     {
       "company": "Flexxo IT Training Center",
       "location": "Caxias do Sul, RS, BR",
-      "description": "IT Training Center Flexxo has qualified professionals and certified instructors to serve the public in the interior of RS - Brazil.",
+      "description": "Qualified professionals and certified instructors serving the public in the interior of RS - Brazil.",
       "website": "http://www.flexxo.com.br",
       "position": "Microsoft Trainer",
       "startDate": "2011-12-01",
@@ -77,61 +77,61 @@
     {
       "company": "Fábrica do Design",
       "location": "Caxias do Sul, RS, BR",
-      "description": "FDD is a tech branch for marketing agencies. FDD specializes in turning ideas into real products.",
+      "description": "A tech branch for marketing agencies that specializes in turning ideas into products.",
       "website": "http://www.fdd.com.br",
       "position": "Senior Software Engineer",
       "startDate": "2011-09-01",
       "endDate": "2011-11-30",
-      "summary": "Development of internal social network for Unilever in order to share experiences in the use of the company products, to be deployed in Cloud Services (Windows Azure)."
+      "summary": "Developed the internal social network for Unilever, deployed in Cloud Services (Windows Azure), to facilitate sharing experiences regarding the use of company products."
     },
     {
       "company": "Associação Literária São Boaventura",
       "location": "Caxias do Sul, RS, BR",
-      "description": "A holding who administer the companies owned by Franciscan Capuchins Catholic order.",
+      "description": "A holding that administers the companies owned by Franciscan Capuchins Catholic order.",
       "website": "http://www.capuchinhos.org.br",
       "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
-      "summary": "Analisys, monitoring, testing and code review of software developed by external providers. \nIntranet deployment with Sharepoint. \nCreating advanced reports with Reporting Services integrated with internal ERP and Sharepoint."
+      "summary": "Handled the analysis, monitoring, testing, and code review of software developed by external providers. \nOversaw the intranet deployment with Sharepoint. \nCreated advanced reports with MS Sql Server Reporting Services integrated with internal ERP and Sharepoint."
     },
     {
       "company": "Effective Software",
       "location": "Caxias do Sul, RS, BR",
-      "description": "A company specialized in developing software for business management",
+      "description": "A company specialized in developing software for business management.",
       "website": "http://effectiveerp.com.br",
       "position": "Senior Software Engineer",
       "startDate": "2011-02-01",
       "endDate": "2011-04-31",
-      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe) in Brazil. Using Oracle database. \nAccess to Web Services of the Department of Finance of Brazil (SeFaz)."
+      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe) in Brazil, using Oracle database. \nAccess to Web Services of the Department of Finance of Brazil (SeFaz)."
     },
     {
       "company": "Fábrica do Design",
       "location": "Caxias do Sul, RS, BR",
-      "description": "FDD is a tech branch for marketing agencies. FDD specializes in turning ideas into real products.",
+      "description": "A tech branch for marketing agencies, specializing in turning ideas into products.",
       "website": "http://www.fdd.com.br",
       "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
-      "summary": "Development of games and simulators for Corretora Souza Barros (a stock broker) and Chevrolet. \nConnect systems with social networks using OAuth. \nDevelopment of intelligent systems for Unilever and Itaú Bank."
+      "summary": "Developed games and simulators for Chevrolet and Corretora Souza Barros (a stock broker). \nConnected systems with social networks using OAuth. \nDeveloped intelligent systems for Unilever and Itaú Bank."
     },
     {
       "company": "Ebis Soluções em Informática",
       "location": "Caxias do Sul, RS, BR",
-      "description": "Ebis was a software factory focused in e-commerce and online stores.",
+      "description": "A software factory focused on e-commerce and online stores.",
       "position": "Software Engineer",
       "startDate": "2009-02-01",
       "endDate": "2009-12-31",
-      "summary": "Develop, maintain and perform customizations in websites and online stores using ASP.Net Web Forms and MVC. \nIntegration with billing systems of Visa, Master Card, American Express, and the brazilian banks Banrisul, Itaú and Bradesco, besides services like PayPal and PagSeguro (a brazilian PayPal 'clone'). \nDevelopment and maintenance of mass mailing systems and intranets."
+      "summary": "Developed, maintained, and customized the websites and online stores using ASP.Net Web Forms and MVC. \nIntegration with billing systems of Visa, Master Card, American Express, and the Brazilian banks Banrisul, Itaú, and Bradesco, as well as services like PayPal and PagSeguro (a Brazilian PayPal 'clone'). \nDeveloped and maintained the mass mailing systems and intranets."
     },
     {
       "company": "Di Uno Informática",
       "location": "Caxias do Sul, RS, BR",
-      "description": "Di Uno is a technology company specialized in e-government.",
+      "description": "A technology company specialized in e-government.",
       "website": "http://www.diuno.com.br",
       "position": "Software Engineer",
       "startDate": "2007-10-01",
       "endDate": "2009-01-31",
-      "summary": "Develop and maintain the intranet projects (ASP.Net) and Sharepoint portals for big industries like Gerdau S/A, Fras-le and Randon S/A."
+      "summary": "Developed and maintained the intranet projects (ASP.Net) and Sharepoint portals for big industries like Gerdau S/A, Fras-le, and Randon S/A."
     }
   ],
   "volunteer": [
