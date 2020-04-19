@@ -6,7 +6,7 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-    "summary": "My first contact with a programming language was at age 13 when I found out that I could automate things on IRC using mIRC Scripting. After that, I learned HTML and Perl + CGI to create my first website. Then I learned Javascript and CSS. I spent some time with PHP when it became popular in the early years of 2000. \nI also have a hobby interest in electronics since high school, where I learned to program micro-controllers. Because of this, I started the Electronic Engineering career at the university, but after some courses and different types of programable sensors and micro-controllers, I was sure that my true passion is programming, and that electronics is just a hobby. \nI got my first job as a .Net developer in 2007 and since then I developed a wide variety of skills, from front-end frameworks to a deep understanding of DNS to support Argentinian ccTLD, with lots of fancy words in the middle (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD and much more). \nIn 2014 I focused my career on front-end development, learning frameworks like React and Vue while using all my previous knowledge to help my teams to create better front-end architectures, seamlessly integrated with the back-end services and automating everything, from build to production deployment, ensuring a seamless, less stressful and enjoyable development experience for the teams I'm working with.",
+      "summary": "I am a knowledgeable and professional software engineer with over ten years of experience in relevant fields. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics is more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.) \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI have continued this focus with my current position working to make healthcare more accessible.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -33,7 +33,7 @@
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
-      "summary": "Pager create real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate our platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
+      "summary": "Pager creates real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate our platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
     },
     {
       "company": "Segundo Hogar",
@@ -48,7 +48,7 @@
     {
       "company": "ADC - Administradora de Conocimientos",
       "location": "City of Buenos Aires, AR",
-      "description": "ADC was a software consulting company in technology and development.",
+      "description": "A software consultant company for technology and development.",
       "website": "http://www.adconsa.com.ar",
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
@@ -92,7 +92,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
-      "summary": "Handled the analysis, monitoring, testing, and code review of software developed by external providers. \nOversaw the intranet deployment with Sharepoint. \nCreated advanced reports with MS Sql Server Reporting Services integrated with internal ERP and Sharepoint."
+      "summary": "Handled the analysis, monitoring, testing, and code review of software developed by external providers. \nOversaw the intranet deployment with Sharepoint. \nCreated advanced reports with MS SQL Server Reporting Services integrated with internal ERP and Sharepoint."
     },
     {
       "company": "Effective Software",
@@ -112,7 +112,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
-      "summary": "Developed games and simulators for Chevrolet and Corretora Souza Barros (a stock broker). \nConnected systems with social networks using OAuth. \nDeveloped intelligent systems for Unilever and Itaú Bank."
+      "summary": "Developed games and simulators for Chevrolet and Corretora Souza Barros (a brokerage company). \nConnected systems with social networks using OAuth. \nDeveloped intelligent systems for Unilever and Itaú Bank."
     },
     {
       "company": "Ebis Soluções em Informática",
