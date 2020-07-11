@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "next": "9.3.6",
-    "next-react-svg": "1.1.1",
+    "next-react-svg": "1.1.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   },
