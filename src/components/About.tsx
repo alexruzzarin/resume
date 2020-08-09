@@ -43,7 +43,7 @@ const About: React.FC<AboutProps> = ({ basics }) => {
           profiles.map((profile, index) => {
             return (
               <AsideListItem key={index}>
-                <a href={`tel:${profile.url}`} target="_blank">
+                <a href={profile.url} target="_blank">
                   <Icon type={profile.network} />
                   <span>{profile.username}</span>
                 </a>
