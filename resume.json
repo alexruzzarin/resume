@@ -27,12 +27,23 @@
   },
   "work": [
     {
+      "company": "Lifion by ADP",
+      "location": "New York, NY, US",
+      "description": "Lifion is transforming a world of HR pain into useful tools and meaningful experiences for millions of people worldwide.",
+      "website": "http://lifion.com",
+      "position": "Senior Platform Engineer",
+      "startDate": "2020-12-14",
+      "endDate": "2020-12-11",
+      "summary": ""
+    },
+    {
       "company": "Pager",
       "location": "New York, NY, US",
       "description": "At Pager, we are on a mission to transform healthcare by offering patients better tools and more access to high-quality care.",
       "website": "http://pager.com",
       "position": "Senior Software Engineer",
       "startDate": "2015-05-01",
+      "endDate": "2020-12-11",
       "summary": "Pager creates real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate our platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
     },
     {
