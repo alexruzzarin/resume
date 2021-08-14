@@ -56,7 +56,7 @@ const Index: NextPage = () => {
                     </div>
 
                     <H4>
-                      <a href={work.website} target="_blank">
+                      <a href={work.website} target="_blank" rel="noreferrer">
                         {work.company}
                       </a>
                     </H4>
@@ -80,7 +80,7 @@ const Index: NextPage = () => {
                       {volunteer.position}
                     </h5>
                     <H4>
-                      <a href={volunteer.website} target="_blank">
+                      <a href={volunteer.website} target="_blank" rel="noreferrer">
                         {volunteer.organization}
                       </a>
                     </H4>
@@ -103,7 +103,7 @@ const Index: NextPage = () => {
                       <TimeRange start={edu.startDate} end={edu.endDate} />
                     </div>
                     <H4>
-                      <a href={edu.website} target="_blank">
+                      <a href={edu.website} target="_blank" rel="noreferrer">
                         {edu.institution}
                       </a>
                     </H4>

@@ -22,19 +22,19 @@ const About: React.FC<AboutProps> = ({ basics }) => {
           </address>
         </AsideListItem>
         <AsideListItem>
-          <a href={`mailto:${basics.email}`} target="_blank">
+          <a href={`mailto:${basics.email}`} target="_blank" rel="noreferrer">
             <Icon type="Email" />
             <span>{basics.email}</span>
           </a>
         </AsideListItem>
         <AsideListItem>
-          <a href={basics.website} target="_blank">
+          <a href={basics.website} target="_blank" rel="noreferrer">
             <Icon type="Websites" />
             <span>{basics.website}</span>
           </a>
         </AsideListItem>
         <AsideListItem>
-          <a href={`tel:${basics.phone}`} target="_blank">
+          <a href={`tel:${basics.phone}`} target="_blank" rel="noreferrer">
             <Icon type="Phone Number" />
             <span>{basics.phone}</span>
           </a>
@@ -43,7 +43,7 @@ const About: React.FC<AboutProps> = ({ basics }) => {
           profiles.map((profile, index) => {
             return (
               <AsideListItem key={index}>
-                <a href={profile.url} target="_blank">
+                <a href={profile.url} target="_blank" rel="noreferrer">
                   <Icon type={profile.network} />
                   <span>{profile.username}</span>
                 </a>
