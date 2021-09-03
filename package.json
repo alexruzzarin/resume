@@ -4,7 +4,7 @@
   "description": "Alex Ruzzarin JSON Resume",
   "main": "index.js",
   "dependencies": {
-    "autoprefixer": "10.3.3",
+    "autoprefixer": "10.3.4",
     "next": "11.1.2",
     "next-react-svg": "1.1.3",
     "postcss": "8.3.6",
