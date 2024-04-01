@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "basics": {
     "name": "Alex Ruzzarin",
     "label": "Software Engineer",
@@ -6,7 +7,9 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-      "summary": "I am a knowledgeable and professional software engineer with over ten years of experience in relevant fields. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics is more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.) \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI have continued this focus with my current position working to make healthcare more accessible.",
+    "summary-1": "Experienced software engineer specializing in frontend development with a decade-long track record of delivering impactful solutions. Proficient in modern JavaScript frameworks like React, Vue, and Angular, I've led teams in architecting robust frontend architectures and seamlessly integrating with backend services. Skilled in automation and deployment, I've streamlined development processes for enhanced efficiency. Passionate about making healthcare more accessible through technology. Open-source advocate with a commitment to continuous learning.",
+    "summary-2": "Experienced software engineer specializing in frontend development with a decade-long track record of delivering impactful solutions. Proficient in modern JavaScript frameworks like React, Vue, and Angular, I've led teams in architecting robust frontend architectures and seamlessly integrating with backend services. Skilled in automation and deployment, I've streamlined development processes for enhanced efficiency. Committed to continuous learning and staying abreast of industry trends.",
+    "about-me": "I am a knowledgeable and professional software engineer with over ten years of experience in relevant fields. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics is more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.) \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI have continued this focus with my current position working to make healthcare more accessible.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -33,7 +36,6 @@
       "website": "http://lifion.com",
       "position": "Senior Platform Engineer",
       "startDate": "2020-12-14",
-      "endDate": "2020-12-11",
       "summary": ""
     },
     {
@@ -176,7 +178,9 @@
       "studyType": "Bachelors",
       "startDate": "2001-01-01",
       "endDate": "2003-12-31",
-      "courses": ["Trainee in the physics lab"]
+      "courses": [
+        "Trainee in the physics lab"
+      ]
     }
   ],
   "skills": [
