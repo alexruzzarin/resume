@@ -1,8 +1,0 @@
-h3::after {
-  content: "";
-  display: block;
-  margin: 0 auto;
-  width: 50%;
-  padding-top: 20px;
-  border-bottom: 1px solid black;
-}
