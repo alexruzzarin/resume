@@ -1,24 +1,26 @@
-import resume from "../resume";
-import { NextPage } from "next";
-import H3 from "../components/styled/H3";
-import Summary from "../components/styled/Summary";
-import About from "../components/About";
-import Icon from "../components/styled/Icon";
-import Skills from "../components/Skills";
-import Languages from "../components/Languages";
-import H4 from "../components/styled/H4";
-import TimeRange from "../components/TimeRange";
+import About from "@/components/About";
+import Languages from "@/components/Languages";
+import Skills from "@/components/Skills";
+import H3 from "@/components/styled/H3";
+import H4 from "@/components/styled/H4";
+import Icon from "@/components/styled/Icon";
+import Summary from "@/components/styled/Summary";
+import TimeRange from "@/components/TimeRange";
 
-const Index: NextPage = () => {
-  const {
-    basics,
-    skills,
-    languages,
-    work: works,
-    volunteer: volunteers,
-    education,
-  } = resume;
-  const { summary } = basics;
+import resume from "@/resume";
+
+const {
+  basics,
+  skills,
+  languages,
+  work: works,
+  volunteer: volunteers,
+  education,
+} = resume;
+const { summary } = basics;
+
+export default function Home() {
+
   return (
     <div className="container mx-auto my-16 print:my-0 text-gray-800 print:text-black bg-gray-100 border-teal-600 print:border-black border-t-8 shadow-2xl print:shadow-none">
       <header className="p-8 print:p-0 bg-teal-900 text-teal-100 print:text-black print:border-b-2 print:mb-2">
@@ -34,7 +36,7 @@ const Index: NextPage = () => {
           <Languages languages={languages} />
         </aside>
         <div className="p-8 print:p-0 print:pl-2 w-full sm:w-3/5 lg:w-2/3 xl:w-4/5 print:w-2/3 font-light">
-          <section className="mb-8" style={{ pageBreakAfter: "always" }}>
+          <section className="mb-8" style={{ pageBreakAfter: "auto" }}>
             <H3>
               <Icon type="Summary" />
               Summary
@@ -61,7 +63,7 @@ const Index: NextPage = () => {
                       </a>
                     </H4>
                     <address>{work.location}</address>
-                    <p className="text-sm italic">{work.description}</p>
+                    {/* <p className="text-sm italic">{work.description}</p> */}
                   </header>
                   <Summary summary={work.summary} />
                 </div>
@@ -89,7 +91,7 @@ const Index: NextPage = () => {
                 </div>
               ))}
           </section>
-          <section className="mb-8">
+          <section className="mb-8" style={{ pageBreakAfter: "always" }}>
             <H3>
               <Icon type="Education" />
               Education
@@ -112,10 +114,15 @@ const Index: NextPage = () => {
                 </div>
               ))}
           </section>
+          <section className="mb-8" >
+            <H3>
+              <Icon type="About Me" />
+              About Me
+            </H3>
+            <Summary summary={basics['about-me']} />
+          </section>
         </div>
       </main>
     </div>
   );
-};
-
-export default Index;
+}

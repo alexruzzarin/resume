@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
   "basics": {
     "name": "Alex Ruzzarin",
     "label": "Software Engineer",
@@ -6,7 +7,8 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-      "summary": "I am a knowledgeable and professional software engineer with over ten years of experience in relevant fields. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics is more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.) \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI have continued this focus with my current position working to make healthcare more accessible.",
+    "summary": "Experienced software engineer specializing in frontend development with a decade-long track record of delivering impactful solutions. Proficient in modern JavaScript frameworks like React, Vue, and Angular, I've led teams in architecting robust frontend architectures and seamlessly integrating with backend services. Skilled in automation and deployment, I've streamlined development processes for enhanced efficiency. Committed to continuous learning and staying abreast of industry trends. Dev Ex advocate!",
+    "about-me": "I am a knowledgeable and professional software engineer with almost 20 years of experience in the field. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics are more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.). \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI helped making USA healthcare more accessible.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -27,24 +29,64 @@
   },
   "work": [
     {
-      "company": "Lifion by ADP",
+      "company": "ADP Lyric",
       "location": "New York, NY, US",
-      "description": "Lifion is transforming a world of HR pain into useful tools and meaningful experiences for millions of people worldwide.",
-      "website": "http://lifion.com",
-      "position": "Senior Platform Engineer",
+      "description": "Empower everyone in your organization with a full-suite, human capital management solution designed for your rhythms of work.",
+      "website": "https://www.adp.com",
+      "position": "Senior Software Engineer → Lead Platform Engineer",
       "startDate": "2020-12-14",
-      "endDate": "2020-12-11",
-      "summary": ""
+      "summary": "Fronted the development of ADP Lyric's mobile applications using React Native and React, ensuring seamless cross-platform experiences. Architected and implemented CI/CD pipelines for efficient and reliable deployments. Mentored other engineers and fostered a collaborative team environment. Solved integration challenges with Machine Learning, Unified Sign-On, and other internal teams.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "Typescript",
+        "Tailwind",
+        "React",
+        "React Native",
+        "Socket.IO",
+        "Websockets",
+        "Express",
+        "AWS",
+        "PostgreSQL",
+        "Redis",
+        "Git",
+        "Docker",
+        "Kubernetes"
+      ]
     },
     {
       "company": "Pager",
       "location": "New York, NY, US",
       "description": "At Pager, we are on a mission to transform healthcare by offering patients better tools and more access to high-quality care.",
-      "website": "http://pager.com",
-      "position": "Senior Software Engineer",
+      "website": "https://pager.com",
+      "position": "Senior Software Engineer → Web Architect",
       "startDate": "2015-05-01",
       "endDate": "2020-12-11",
-      "summary": "Pager creates real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate our platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes."
+      "summary": "Led the development of real-time chat and video conferencing applications for healthcare using Node.JS, React, Vue, and other UI frameworks. Solved complex integration challenges by architecting and maintaining the Pager Web SDK. Implemented CI/CD pipelines to automate build, versioning, and deployment processes using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud with Docker and Kubernetes.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "Typescript",
+        "React",
+        "React Native",
+        "Vue",
+        "Ember",
+        "Tailwind",
+        "Socket.IO",
+        "WebRTC",
+        "Websockets",
+        "Express",
+        "Hapi",
+        "AWS",
+        "Google Cloud",
+        "PostgreSQL",
+        "Redis",
+        "MySQL",
+        "Git",
+        "Github Actions",
+        "Docker",
+        "Kubernetes"
+      ]
     },
     {
       "company": "Segundo Hogar",
@@ -54,7 +96,21 @@
       "position": "Senior Software Engineer",
       "startDate": "2014-09-01",
       "endDate": "2015-04-30",
-      "summary": "Developed and maintained the website, mobile site, payment systems, backend, and APIs for a vacation rental platform using Node.js, Express, Angular, and ElasticSearch."
+      "summary": "Developed and maintained the website, mobile site, payment systems, backend, and APIs for a LATAM-based vacation rental platform using Node.js, Express, Angular, and ElasticSearch. Implemented ElasticSearch-powered faceted search to enhance user experience and revenue.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "jQuery",
+        "Angular",
+        "Node.JS",
+        "Express",
+        "AWS",
+        "EC2",
+        "Cloud",
+        "ElasticSearch",
+        "MySQL",
+        "Git"
+      ]
     },
     {
       "company": "ADC - Administradora de Conocimientos",
@@ -64,7 +120,32 @@
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Architect and designed the software solutions, projects and platforms integration, and upgrading of the technology platform, \nProvided the training and certification of company personnel. \nSpearheaded and developed the project to integrate the new system for Argentina's domain names (ccTLD) written in .Net with the Bind DNS servers running in Linux."
+      "summary": "Architect and designed the upgrade of the Argentinian government OCR platform, improving the stability and the escalability of the system. \nProvided training and certification for internal teams. \nPlanned and developed the project to integrate the new system for Argentina's domain names (ccTLD) written in .Net with the BIND DNS servers.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "jQuery",
+        "Knockout",
+        ".Net Framework",
+        "ASP.Net",
+        "ASP.Net MVC",
+        "Entity Framework",
+        "SignalR",
+        "Websockets",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Microsoft Azure",
+        "Microsoft Team Foundation Server (TFS)",
+        "Microsoft SQL Server",
+        "Windows Workflow Foundation (WF)",
+        "Windows Presentation Foundation (WPF)",
+        "Windows Communication Foundation (WCF)",
+        "Microsoft Message Queuing (MSMQ)",
+        "Microsoft Silverlight",
+        "Domain Name System (DNS)",
+        "BIND 9",
+        "Payment processor integration"
+      ]
     },
     {
       "company": "Oka Digital",
@@ -73,7 +154,14 @@
       "position": "Tech Leader",
       "startDate": "2012-02-01",
       "endDate": "2012-06-30",
-      "summary": "Architect and implementation of new technologies with subsequent front-end programming, using modern Javascript frameworks to create websites and online stores."
+      "summary": "Used modern Javascript frameworks to create websites and online stores, creating an inovative user experience.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "GIT",
+        "jQuery",
+        "AJAX"
+      ]
     },
     {
       "company": "Flexxo IT Training Center",
@@ -83,7 +171,16 @@
       "position": "Microsoft Trainer",
       "startDate": "2011-12-01",
       "endDate": "2012-06-30",
-      "summary": "Trainer of courses \"Developing Web Applications with Microsoft Visual Studio 2010\" - 10264A and \"Programming in C# with Microsoft Visual Studio 2010\" - 10266A."
+      "summary": "Trainer of courses \"Developing Web Applications with Microsoft Visual Studio 2010\" - 10264A and \"Programming in C# with Microsoft Visual Studio 2010\" - 10266A.",
+      "skills": [
+        ".Net Framework",
+        "ASP.Net",
+        "ASP.Net MVC",
+        "Entity Framework",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Microsoft Azure"
+      ]
     },
     {
       "company": "Fábrica do Design",
@@ -93,7 +190,24 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-09-01",
       "endDate": "2011-11-30",
-      "summary": "Developed the internal social network for Unilever, deployed in Cloud Services (Windows Azure), to facilitate sharing experiences regarding the use of company products."
+      "summary": "Developed the internal social network for Unilever using ASP.Net MVC, deployed in Cloud Services (Microsoft Azure), to facilitate sharing experiences regarding the use of company products.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        ".Net Framework",
+        "ASP.Net MVC",
+        "MySQL",
+        "PostgreSQL",
+        "RavenDB",
+        "Entity Framework",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Microsoft Team Foundation Service, Azure DevOps Server",
+        "OAuth",
+        "OpenID",
+        "Cloud Services",
+        "Microsoft Azure"
+      ]
     },
     {
       "company": "Associação Literária São Boaventura",
@@ -103,7 +217,16 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-05-01",
       "endDate": "2011-08-31",
-      "summary": "Handled the analysis, monitoring, testing, and code review of software developed by external providers. \nOversaw the intranet deployment with Sharepoint. \nCreated advanced reports with MS SQL Server Reporting Services integrated with internal ERP and Sharepoint."
+      "summary": "Handled the analysis, monitoring, testing, and code review of software developed by external providers. \nOversaw the intranet deployment with Sharepoint. \nCreated advanced reports with MS SQL Server Reporting Services integrated with internal ERP and Sharepoint.",
+      "skills": [
+        ".Net Framework",
+        "ASP.Net",
+        "Sharepoint",
+        "Microsoft SQL Server",
+        "C#",
+        "Microsoft Team Foundation Server (TFS)",
+        "Microsoft Internet Information Server (IIS)"
+      ]
     },
     {
       "company": "Effective Software",
@@ -113,7 +236,19 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-02-01",
       "endDate": "2011-04-31",
-      "summary": "Definition of the architecture and development system for managing Electronic Invoices (NFe) in Brazil, using Oracle database. \nAccess to Web Services of the Department of Finance of Brazil (SeFaz)."
+      "summary": "Definition of the architecture and development of a Electronic Receipts (NFe - Nota Fiscal Eletronica) system in Brazil, using .Net Framework and Oracle database. \nAccess to Web Services of the Brazilian Department of Finance (SeFaz).",
+      "skills": [
+        "HTML",
+        "Javascript",
+        ".Net Framework",
+        "ASP.Net MVC",
+        "Oracle",
+        "Entity Framework",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Mercurial",
+        "Team City"
+      ]
     },
     {
       "company": "Fábrica do Design",
@@ -123,7 +258,28 @@
       "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
-      "summary": "Developed games and simulators for Chevrolet and Corretora Souza Barros (a brokerage company). \nConnected systems with social networks using OAuth. \nDeveloped intelligent systems for Unilever and Itaú Bank."
+      "summary": "Developed games and simulators for General Motors, Unilever and Corretora Souza Barros (a brokerage company). \nConnected systems with social networks using OAuth and OpenID. \nDeveloped a modern CMS used by companies like Unilever and Itaú Bank.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "jQuery",
+        ".Net Framework",
+        "ASP.Net MVC",
+        "Unity 3D",
+        "Flash",
+        "Microsoft SQL Server",
+        "Microsoft Software Installer",
+        "Entity Framework",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Ruby",
+        "Ruby on Rails",
+        "CVS",
+        "Team City",
+        "OAuth",
+        "OpenID",
+        "Cloud Services"
+      ]
     },
     {
       "company": "Ebis Soluções em Informática",
@@ -132,7 +288,21 @@
       "position": "Software Engineer",
       "startDate": "2009-02-01",
       "endDate": "2009-12-31",
-      "summary": "Developed, maintained, and customized the websites and online stores using ASP.Net Web Forms and MVC. \nIntegration with billing systems of Visa, Master Card, American Express, and the Brazilian banks Banrisul, Itaú, and Bradesco, as well as services like PayPal and PagSeguro (a Brazilian PayPal 'clone'). \nDeveloped and maintained the mass mailing systems and intranets."
+      "summary": "Developed, maintained, and customized the websites and online stores using ASP.Net Web Forms and MVC. \nIntegration with payment systems of Visa, Master Card, American Express, and the Brazilian banks Banrisul, Itaú, and Bradesco, as well as services like PayPal and PagSeguro (a Brazilian PayPal 'clone'). \nDeveloped and maintained the marketing e-mail systems and intranets.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "AJAX",
+        ".Net Framework",
+        "ASP.Net",
+        "ASP.Net MVC",
+        "Microsoft SQL Server",
+        "Entity Framework",
+        "C#",
+        "Microsoft Internet Information Server (IIS)",
+        "Payment processor integration",
+        "CVS"
+      ]
     },
     {
       "company": "Di Uno Informática",
@@ -142,7 +312,19 @@
       "position": "Software Engineer",
       "startDate": "2007-10-01",
       "endDate": "2009-01-31",
-      "summary": "Developed and maintained the intranet projects (ASP.Net) and Sharepoint portals for big industries like Gerdau S/A, Fras-le, and Randon S/A."
+      "summary": "Developed and maintained the intranet projects (ASP.Net) and Sharepoint portals for big Brazilian industries like Gerdau S/A, Fras-le, and Randon S/A.",
+      "skills": [
+        "HTML",
+        "Javascript",
+        "AJAX",
+        ".Net Framework",
+        "ASP.Net",
+        "Sharepoint",
+        "Microsoft SQL Server",
+        "C#",
+        "Microsoft Team Foundation Server (TFS)",
+        "Microsoft Internet Information Server (IIS)"
+      ]
     }
   ],
   "volunteer": [
@@ -176,7 +358,9 @@
       "studyType": "Bachelors",
       "startDate": "2001-01-01",
       "endDate": "2003-12-31",
-      "courses": ["Trainee in the physics lab"]
+      "courses": [
+        "Trainee in the physics lab"
+      ]
     }
   ],
   "skills": [
@@ -185,16 +369,13 @@
       "level": "Master",
       "keywords": [
         "HTML",
-        "CSS",
-        "LESS",
-        "SASS",
+        "CSS / LESS / SASS",
         "Javascript",
         "Typescript",
         "React",
         "Vue",
         "Angular",
-        "Redux",
-        "Cerebral"
+        "Redux"
       ]
     },
     {
@@ -203,33 +384,29 @@
       "keywords": [
         "Javascript",
         "Serverless",
-        "Express",
-        "Hapi",
-        ".Net",
-        ".Net Core",
+        "Express / Fastify / Koa / Hapi",
+        ".Net / .Net Core",
         "C#",
         "ASP.Net MVC",
-        "Multiple Databases"
+        "Relational Databases",
+        "Object-oriented Databases",
+        "NoSQL Databases"
       ]
     },
     {
       "name": "Foundational",
       "level": "Master",
       "keywords": [
-        "CI",
-        "CD",
+        "CI/CD",
         "Object Oriented Design",
-        "DDD",
-        "TDD",
-        "BDD",
+        "{D,T,B}DD",
         "Design Patterns",
         "SOA",
-        "Micro services",
-        "SaaS",
-        "PaaS",
-        "IaaS",
+        "Micro Services",
+        "{S,P,I}aaS",
         "Cloud",
         "Docker",
+        "Kubernates",
         "Scrum"
       ]
     }
@@ -245,7 +422,7 @@
     },
     {
       "language": "English",
-      "fluency": "Full professional proficiency"
+      "fluency": "Native or Full professional proficiency"
     },
     {
       "language": "Italian",
