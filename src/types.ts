@@ -17,6 +17,7 @@ export interface Basics {
   summary: string;
   location: Location;
   profiles: Profile[];
+  "about-me": string;
 }
 
 export interface Location {

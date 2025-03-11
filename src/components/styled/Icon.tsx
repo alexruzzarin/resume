@@ -1,48 +1,35 @@
-import Location from "../../icons/map-marker-alt-solid.svg";
-import Email from "../../icons/envelope-solid.svg";
-import Websites from "../../icons/globe-solid.svg";
-import PhoneNumber from "../../icons/phone-alt-solid.svg";
-import GitHub from "../../icons/github-brands.svg";
-import LinkedIn from "../../icons/linkedin-in-brands.svg";
-// import Twitter from "../../icons/twitter-brands.svg";
-// import Facebook from "../../icons/facebook-f-brands.svg";
-// import Instagram from "../../icons/instagram-brands.svg";
-import Summary from "../../icons/user-solid.svg";
-import WorkExperience from "../../icons/laptop-solid.svg";
-import Volunteer from "../../icons/hands-helping-solid.svg";
-import Education from "../../icons/graduation-cap-solid.svg";
+import Image from 'next/image';
 
-const types = {
-  Location,
-  Email,
-  Websites,
-  "Phone Number": PhoneNumber,
-  GitHub,
-  LinkedIn,
-  // Twitter,
-  // Facebook,
-  // Instagram,
-  Summary,
-  "Work Experience": WorkExperience,
-  Volunteer,
-  Education,
-};
+type Types = "Location" | "Email" | "Websites" | "Phone Number" | "GitHub" | "LinkedIn" | "Twitter" | "Facebook" | "Instagram" | "Summary" | "Work Experience" | "Volunteer" | "Education" | "About Me"
 
-type Types = Extract<keyof typeof types, string>;
+const mapIconType = new Map<Types, string>([
+  ["Location", "icons/map-marker-alt-solid.svg"],
+  ["Email", "icons/envelope-solid.svg"],
+  ["Websites", "icons/globe-solid.svg"],
+  ["Phone Number", "icons/phone-alt-solid.svg"],
+  ["GitHub", "icons/github-brands.svg"],
+  ["LinkedIn", "icons/linkedin-in-brands.svg"],
+  ["Twitter", "icons/twitter-brands.svg"],
+  ["Facebook", "icons/facebook-f-brands.svg"],
+  ["Instagram", "icons/instagram-brands.svg"],
+  ["Summary", "icons/user-solid.svg"],
+  ["Work Experience", "icons/laptop-solid.svg"],
+  ["Volunteer", "icons/hands-helping-solid.svg"],
+  ["Education", "icons/graduation-cap-solid.svg"],
+  ["About Me", "icons/timeline.svg"],
+])
 
 interface IconProps {
   type: Types;
 }
 
 const Icon: React.FC<IconProps> = ({ type, ...rest }) => {
-  const IconType = types[type];
-  return (
-    <IconType
-      alt={type}
-      className="inline h-6 w-6 mr-2 print:h-4 print:w-4"
-      {...rest}
-    />
-  );
+  const src= mapIconType.get(type);
+  if (src){
+    return (
+      <Image src={src} alt={type} width={50} height={50} className="inline h-6 w-6 mr-2 print:h-4 print:w-4" />
+    );
+  }
 };
 
 export default Icon;

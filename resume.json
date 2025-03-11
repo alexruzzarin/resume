@@ -33,7 +33,7 @@
       "location": "New York, NY, US",
       "description": "Empower everyone in your organization with a full-suite, human capital management solution designed for your rhythms of work.",
       "website": "https://www.adp.com",
-      "position": "Senior Software Engineer -> Lead Platform Engineer",
+      "position": "Senior Software Engineer → Lead Platform Engineer",
       "startDate": "2020-12-14",
       "summary": "Fronted the development of ADP Lyric's mobile applications using React Native and React, ensuring seamless cross-platform experiences. Architected and implemented CI/CD pipelines for efficient and reliable deployments. Mentored other engineers and fostered a collaborative team environment. Solved integration challenges with Machine Learning, Unified Sign-On, and other internal teams.",
       "skills": [
@@ -59,7 +59,7 @@
       "location": "New York, NY, US",
       "description": "At Pager, we are on a mission to transform healthcare by offering patients better tools and more access to high-quality care.",
       "website": "https://pager.com",
-      "position": "Senior Software Engineer -> Web Architect",
+      "position": "Senior Software Engineer → Web Architect",
       "startDate": "2015-05-01",
       "endDate": "2020-12-11",
       "summary": "Led the development of real-time chat and video conferencing applications for healthcare using Node.JS, React, Vue, and other UI frameworks. Solved complex integration challenges by architecting and maintaining the Pager Web SDK. Implemented CI/CD pipelines to automate build, versioning, and deployment processes using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud with Docker and Kubernetes.",
@@ -369,16 +369,13 @@
       "level": "Master",
       "keywords": [
         "HTML",
-        "CSS",
-        "LESS",
-        "SASS",
+        "CSS / LESS / SASS",
         "Javascript",
         "Typescript",
         "React",
         "Vue",
         "Angular",
-        "Redux",
-        "Cerebral"
+        "Redux"
       ]
     },
     {
@@ -387,33 +384,29 @@
       "keywords": [
         "Javascript",
         "Serverless",
-        "Express",
-        "Hapi",
-        ".Net",
-        ".Net Core",
+        "Express / Fastify / Koa / Hapi",
+        ".Net / .Net Core",
         "C#",
         "ASP.Net MVC",
-        "Multiple Databases"
+        "Relational Databases",
+        "Object-oriented Databases",
+        "NoSQL Databases"
       ]
     },
     {
       "name": "Foundational",
       "level": "Master",
       "keywords": [
-        "CI",
-        "CD",
+        "CI/CD",
         "Object Oriented Design",
-        "DDD",
-        "TDD",
-        "BDD",
+        "{D,T,B}DD",
         "Design Patterns",
         "SOA",
-        "Micro services",
-        "SaaS",
-        "PaaS",
-        "IaaS",
+        "Micro Services",
+        "{S,P,I}aaS",
         "Cloud",
         "Docker",
+        "Kubernates",
         "Scrum"
       ]
     }
@@ -429,7 +422,7 @@
     },
     {
       "language": "English",
-      "fluency": "Full professional proficiency"
+      "fluency": "Native or Full professional proficiency"
     },
     {
       "language": "Italian",
