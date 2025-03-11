@@ -23,7 +23,7 @@ interface IconProps {
   type: Types;
 }
 
-const Icon: React.FC<IconProps> = ({ type, ...rest }) => {
+const Icon: React.FC<IconProps> = ({ type }) => {
   const src= mapIconType.get(type);
   if (src){
     return (
