@@ -7,8 +7,8 @@
     "email": "alex@ruzzar.in",
     "phone": "+1 (929) 351 2451",
     "website": "https://alex.ruzzar.in",
-    "summary": "Experienced software engineer specializing in frontend development with a decade-long track record of delivering impactful solutions. Proficient in modern JavaScript frameworks like React, Vue, and Angular, I've led teams in architecting robust frontend architectures and seamlessly integrating with backend services. Skilled in automation and deployment, I've streamlined development processes for enhanced efficiency. Committed to continuous learning and staying abreast of industry trends.",
-    "about-me": "I am a knowledgeable and professional software engineer with over ten years of experience in relevant fields. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics is more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.) \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI have continued this focus with my current position working to make healthcare more accessible.",
+    "summary": "Experienced software engineer specializing in frontend development with a decade-long track record of delivering impactful solutions. Proficient in modern JavaScript frameworks like React, Vue, and Angular, I've led teams in architecting robust frontend architectures and seamlessly integrating with backend services. Skilled in automation and deployment, I've streamlined development processes for enhanced efficiency. Committed to continuous learning and staying abreast of industry trends. Dev Ex advocate!",
+    "about-me": "I am a knowledgeable and professional software engineer with almost 20 years of experience in the area. \nMy first contact with a programming language was at age 13 when I discovered that I could automate things on IRC using mIRC Scripting. I then learned HTML and Perl + CGI, which I used to create my first website. I followed this with Javascript and CSS, as well as PHP when it became popular in the early 2000s. \nI also developed an interest in electronics during high school when I learned to program micro-controllers. I started the Electronic Engineering major at the university, but after taking some courses, I realized electronics are more of a hobby of mine. My true passion is programming. \nI got my first job as a .Net developer in 2007 and since then have obtained a wide variety of experience and skills: from mastering front-end frameworks to developing a deep understanding of DNS to support Argentinian ccTLD, with a lot of fancy technical terms learned in between (Sharepoint, .Net, Silverlight, MVVM, TDD, BDD, SQL and NoSQL, Web Services, OAuth, CI, CD, etc.). \nIn 2014, I began to focus my career on front-end development. I studied frameworks like React and Vue and combined them with my previous knowledge to help my teams create better front-end architectures. Together we seamlessly integrated with the back-end services and automated everything, from build to production deployment, ensuring a less stressful and more effective development experience for the team. \nI helped making USA healthcare more accessible.",
     "location": {
       "city": "New York",
       "countryCode": "US",
@@ -35,7 +35,7 @@
       "website": "https://www.adp.com",
       "position": "Senior Software Engineer -> Lead Platform Engineer",
       "startDate": "2020-12-14",
-      "summary": "Develop and maintain the ADP Lyric mobile experience, using React Native for the Mobile apps and React for the browser experience, being able to reuse the code base. Take care of the full life cicle, from best practices during development to automated deploys to the App Store and Play Store. Work on integrations between ADP Mobile and other groups of the company such Advanced Search, Machine Learning and Unified Sign-On.",
+      "summary": "Fronted the development of ADP Lyric's mobile applications using React Native and React, ensuring seamless cross-platform experiences. Architected and implemented CI/CD pipelines for efficient and reliable deployments. Mentored other engineers and fostered a collaborative team environment. Solved integration challenges with Machine Learning, Unified Sign-On, and other internal teams.",
       "skills": [
         "HTML",
         "Javascript",
@@ -62,7 +62,7 @@
       "position": "Senior Software Engineer -> Web Architect",
       "startDate": "2015-05-01",
       "endDate": "2020-12-11",
-      "summary": "Pager creates real-time chat and video conferencing applications for healthcare using Node.JS, React + Redux or Cerebral, Vue + Vuex, and other UIs frameworks. \nArchitect and currently maintain the Pager Web SDK (a library to integrate Pager platform in client websites.) \nDevelopment and maintenance of web applications used by our staff and external medicine providers. \nAutomation of the build, versioning, and deployment of the web and Android applications using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud Build with Docker and Kubernetes.",
+      "summary": "Led the development of real-time chat and video conferencing applications for healthcare using Node.JS, React, Vue, and other UI frameworks. Solved complex integration challenges by architecting and maintaining the Pager Web SDK. Implemented CI/CD pipelines to automate build, versioning, and deployment processes using Webpack, Parcel, Babel, Shell Scripts, CircleCI, Github Actions, and Google Cloud with Docker and Kubernetes.",
       "skills": [
         "HTML",
         "Javascript",
@@ -70,8 +70,10 @@
         "React",
         "React Native",
         "Vue",
+        "Ember",
         "Tailwind",
         "Socket.IO",
+        "WebRTC",
         "Websockets",
         "Express",
         "Hapi",
@@ -94,7 +96,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2014-09-01",
       "endDate": "2015-04-30",
-      "summary": "Developed and maintained the website, mobile site, payment systems, backend, and APIs for a vacation rental platform using Node.js, Express, Angular, and ElasticSearch.",
+      "summary": "Developed and maintained the website, mobile site, payment systems, backend, and APIs for a LATAM-based vacation rental platform using Node.js, Express, Angular, and ElasticSearch. Implemented ElasticSearch-powered faceted search to enhance user experience and revenue.",
       "skills": [
         "HTML",
         "Javascript",
@@ -118,7 +120,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2012-07-01",
       "endDate": "2014-07-31",
-      "summary": "Architect and designed the software solutions, projects and platforms integration, and upgrading of the technology platform. \nProvided the training and certification of company personnel. \nSpearheaded and developed the project to integrate the new system for Argentina's domain names (ccTLD) written in .Net with the BIND DNS servers running in Linux.",
+      "summary": "Architect and designed the upgrade of the Argentinian government OCR platform, improving the stability and the escalability of the system. \nProvided training and certification for internal teams. \nPlanned and developed the project to integrate the new system for Argentina's domain names (ccTLD) written in .Net with the BIND DNS servers.",
       "skills": [
         "HTML",
         "Javascript",
@@ -152,7 +154,7 @@
       "position": "Tech Leader",
       "startDate": "2012-02-01",
       "endDate": "2012-06-30",
-      "summary": "Architect and implementation of new technologies with subsequent front-end programming, using modern Javascript frameworks to create websites and online stores.",
+      "summary": "Used modern Javascript frameworks to create websites and online stores, creating an inovative user experience.",
       "skills": [
         "HTML",
         "Javascript",
@@ -188,7 +190,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-09-01",
       "endDate": "2011-11-30",
-      "summary": "Developed the internal social network for Unilever, deployed in Cloud Services (Microsoft Azure), to facilitate sharing experiences regarding the use of company products.",
+      "summary": "Developed the internal social network for Unilever using ASP.Net MVC, deployed in Cloud Services (Microsoft Azure), to facilitate sharing experiences regarding the use of company products.",
       "skills": [
         "HTML",
         "Javascript",
@@ -196,6 +198,7 @@
         "ASP.Net MVC",
         "MySQL",
         "PostgreSQL",
+        "RavenDB",
         "Entity Framework",
         "C#",
         "Microsoft Internet Information Server (IIS)",
@@ -233,7 +236,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2011-02-01",
       "endDate": "2011-04-31",
-      "summary": "Definition of the architecture and development system for managing Electronic Receipts (NFe - Nota Fiscal Eletronica) in Brazil, using Oracle database. \nAccess to Web Services of the Brazilian Department of Finance (SeFaz).",
+      "summary": "Definition of the architecture and development of a Electronic Receipts (NFe - Nota Fiscal Eletronica) system in Brazil, using .Net Framework and Oracle database. \nAccess to Web Services of the Brazilian Department of Finance (SeFaz).",
       "skills": [
         "HTML",
         "Javascript",
@@ -255,7 +258,7 @@
       "position": "Senior Software Engineer",
       "startDate": "2010-01-01",
       "endDate": "2011-01-31",
-      "summary": "Developed games and simulators for Chevrolet and Corretora Souza Barros (a brokerage company). \nConnected systems with social networks using OAuth. \nDeveloped intelligent systems for Unilever and Itaú Bank.",
+      "summary": "Developed games and simulators for General Motors, Unilever and Corretora Souza Barros (a brokerage company). \nConnected systems with social networks using OAuth and OpenID. \nDeveloped a modern CMS used by companies like Unilever and Itaú Bank.",
       "skills": [
         "HTML",
         "Javascript",
