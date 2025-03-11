@@ -1,4 +1,4 @@
-export const AsideList: React.FC = ({ children }) => {
+export const AsideList: React.FC<React.PropsWithChildren> = ({ children }) => {
   return <ul>{children}</ul>;
 };
 
@@ -6,7 +6,7 @@ interface AsideListItemProps {
   margin?: number;
 }
 
-export const AsideListItem: React.FC<AsideListItemProps> = ({
+export const AsideListItem: React.FC<React.PropsWithChildren<AsideListItemProps>> = ({
   margin = 2,
   children,
 }) => {

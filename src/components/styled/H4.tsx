@@ -1,5 +1,5 @@
 // import "H3.module.css";
-const H4: React.FC = ({ children }) => {
+const H4: React.FC<React.PropsWithChildren> = ({ children }) => {
   return (
     <h4 className="text-lg print:text-base font-normal align-text-bottom uppercase mt-2">
       {children}
